@@ -114,7 +114,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
-                        <color key="backgroundColor" red="1" green="0.92663249684874527" blue="0.82361916470561325" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" red="0.84130332743329783" green="1" blue="0.87981136712764996" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
                     <navigationItem key="navigationItem" id="N5G-uw-Z7B"/>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>

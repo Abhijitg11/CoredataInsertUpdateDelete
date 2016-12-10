@@ -17,9 +17,9 @@
 		3F27B7011DED302B009A8855 /* machinetestInserUpdatedeleteCoredataTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F27B7001DED302B009A8855 /* machinetestInserUpdatedeleteCoredataTests.m */; };
 		3F27B70C1DED33CD009A8855 /* Employee.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F27B70B1DED33CD009A8855 /* Employee.m */; };
 		3F27B70F1DED38E8009A8855 /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F27B70E1DED38E8009A8855 /* TableViewController.m */; };
-		3F27B7111DED3A67009A8855 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F27B7101DED3A67009A8855 /* 1.png */; };
-		3F27B7141DED3A78009A8855 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F27B7121DED3A78009A8855 /* 3.png */; };
-		3F27B7151DED3A78009A8855 /* India.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F27B7131DED3A78009A8855 /* India.png */; };
+		3FF2BDAB1DFC300D00585A91 /* Sachin.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FF2BDAA1DFC300D00585A91 /* Sachin.png */; };
+		3FF2BDAD1DFC303800585A91 /* Sehwag.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FF2BDAC1DFC303800585A91 /* Sehwag.png */; };
+		3FF2BDAF1DFC306700585A91 /* Dhoni.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FF2BDAE1DFC306700585A91 /* Dhoni.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,9 +51,9 @@
 		3F27B70B1DED33CD009A8855 /* Employee.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Employee.m; sourceTree = "<group>"; };
 		3F27B70D1DED38E8009A8855 /* TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewController.h; sourceTree = "<group>"; };
 		3F27B70E1DED38E8009A8855 /* TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewController.m; sourceTree = "<group>"; };
-		3F27B7101DED3A67009A8855 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 1.png; path = ../../../../../../Volumes/UsbStorage/CoreDataImageDemo3/CoreDataImageDemo3/1.png; sourceTree = "<group>"; };
-		3F27B7121DED3A78009A8855 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 3.png; path = ../../../../../../Volumes/UsbStorage/CoreDataImageDemo3/CoreDataImageDemo3/3.png; sourceTree = "<group>"; };
-		3F27B7131DED3A78009A8855 /* India.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = India.png; path = ../../../../../../Volumes/UsbStorage/CoreDataImageDemo3/CoreDataImageDemo3/India.png; sourceTree = "<group>"; };
+		3FF2BDAA1DFC300D00585A91 /* Sachin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Sachin.png; sourceTree = "<group>"; };
+		3FF2BDAC1DFC303800585A91 /* Sehwag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Sehwag.png; sourceTree = "<group>"; };
+		3FF2BDAE1DFC306700585A91 /* Dhoni.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Dhoni.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,9 +107,9 @@
 				3F27B6E81DED302B009A8855 /* machinetestInserUpdatedeleteCoredata.xcdatamodeld */,
 				3F27B70A1DED33CD009A8855 /* Employee.h */,
 				3F27B70B1DED33CD009A8855 /* Employee.m */,
-				3F27B7121DED3A78009A8855 /* 3.png */,
-				3F27B7131DED3A78009A8855 /* India.png */,
-				3F27B7101DED3A67009A8855 /* 1.png */,
+				3FF2BDAE1DFC306700585A91 /* Dhoni.png */,
+				3FF2BDAA1DFC300D00585A91 /* Sachin.png */,
+				3FF2BDAC1DFC303800585A91 /* Sehwag.png */,
 				3F27B6E11DED302B009A8855 /* Supporting Files */,
 			);
 			path = machinetestInserUpdatedeleteCoredata;
@@ -221,10 +221,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3F27B7141DED3A78009A8855 /* 3.png in Resources */,
+				3FF2BDAB1DFC300D00585A91 /* Sachin.png in Resources */,
 				3F27B6F01DED302B009A8855 /* Main.storyboard in Resources */,
-				3F27B7111DED3A67009A8855 /* 1.png in Resources */,
-				3F27B7151DED3A78009A8855 /* India.png in Resources */,
+				3FF2BDAD1DFC303800585A91 /* Sehwag.png in Resources */,
+				3FF2BDAF1DFC306700585A91 /* Dhoni.png in Resources */,
 				3F27B6F51DED302B009A8855 /* LaunchScreen.xib in Resources */,
 				3F27B6F21DED302B009A8855 /* Images.xcassets in Resources */,
 			);
@@ -446,6 +446,7 @@
 				3F27B7061DED302B009A8855 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3F27B7071DED302B009A8855 /* Build configuration list for PBXNativeTarget "machinetestInserUpdatedeleteCoredataTests" */ = {
 			isa = XCConfigurationList;
@@ -454,6 +455,7 @@
 				3F27B7091DED302B009A8855 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

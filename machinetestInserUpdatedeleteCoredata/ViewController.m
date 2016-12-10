@@ -84,23 +84,23 @@
     
     if(segment.selectedSegmentIndex==0)
     {
-        _img=[UIImage imageNamed:@"1"];
-        _image1.image=[UIImage imageNamed:@"1"];
+        _img=[UIImage imageNamed:@"Sachin"];
+        _image1.image=[UIImage imageNamed:@"Sachin"];
         _image2.image=nil;
         _image3.image=nil;
     }
     else if(segment.selectedSegmentIndex==1)
     {
-        _img=[UIImage imageNamed:@"3"];
-        _image2.image=[UIImage imageNamed:@"3"];
+        _img=[UIImage imageNamed:@"Sehwag"];
+        _image2.image=[UIImage imageNamed:@"Sehwag"];
         _image1.image=nil;
         _image3.image=nil;
         
     }
     else if(segment.selectedSegmentIndex==2)
     {
-        _img=[UIImage imageNamed:@"India"];
-        _image3.image=[UIImage imageNamed:@"India"];
+        _img=[UIImage imageNamed:@"Dhoni"];
+        _image3.image=[UIImage imageNamed:@"Dhoni"];
         _image2.image=nil;
         _image1.image=nil;
     }
